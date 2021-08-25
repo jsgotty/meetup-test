@@ -8,6 +8,7 @@ function NewMeetupPage() {
     function goHome() {
 
       return history.replace('/'); 
+      
     }
 
   function addMeetupHandler(meetupData) {
